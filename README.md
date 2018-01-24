@@ -1,4 +1,4 @@
 # CV 
-My latest CV (click to view pdf file):
-- [CV](resume_cv.pdf)
-
+My latest resume and CV (click to view pdf files):
+- [resume](resume.pdf)
+- [CV](cv.pdf)
